@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-set patch_list='KB4012598','KB4012212','KB4012215','KB4012213','KB4012216','KB4012214','KB4012217','KB4012216','KB4012606','KB4013198','KB4013429'
+set patch_list='KB4012598','KB4012212','KB4015549','KB4012215','KB4012213','KB4012216','KB4012214','KB4012217','KB4012216','KB4012606','KB4013198','KB4013429'
 ::source: https://support.microsoft.com/en-us/help/4013389/title
 echo Reading installed patch list...
 set patch_found=false
